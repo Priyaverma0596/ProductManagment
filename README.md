@@ -1,6 +1,6 @@
 # Shop Product Management System
 
-Hello! This is my very first try to build a program using Kotlin Language which is developed by [JetBrains](https://www.jetbrains.com/).
+Hello! This is my very first try to build a Android Application using Kotlin Language which is developed by [JetBrains](https://www.jetbrains.com/).
 
 ## About
 Shopkeeper have lots of product and they have to remember each and every Product. <br/>
